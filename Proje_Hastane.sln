@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34526.213
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proje_Hastane", "Proje_Hastane\Proje_Hastane.csproj", "{A069B7DC-2DE9-402F-BFEC-18BAC0AFF458}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Hospital", "Hospital\Hospital.vdproj", "{3E36A12E-26A3-4A7E-AF5C-022F6AD7262E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A069B7DC-2DE9-402F-BFEC-18BAC0AFF458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A069B7DC-2DE9-402F-BFEC-18BAC0AFF458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A069B7DC-2DE9-402F-BFEC-18BAC0AFF458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A069B7DC-2DE9-402F-BFEC-18BAC0AFF458}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E36A12E-26A3-4A7E-AF5C-022F6AD7262E}.Debug|Any CPU.ActiveCfg = Debug
+		{3E36A12E-26A3-4A7E-AF5C-022F6AD7262E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {584CC6BB-1E6B-4A2A-BFCB-EE63958BC2CE}
+	EndGlobalSection
+EndGlobal
